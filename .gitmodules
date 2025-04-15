@@ -1,0 +1,3 @@
+[submodule "be/src/dataaccess"]
+	path = be/src/dataaccess
+	url = https://github.com/articul8/a8-data-access.git
